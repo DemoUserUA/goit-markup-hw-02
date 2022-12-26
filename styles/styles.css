@@ -1,0 +1,15 @@
+.body {
+font-family: 'Raleway', sans-serif;
+}
+
+
+
+/* Прибираємо маркування */
+.list {
+list-style: none;
+}
+
+/* Приховуємо нижнє підкреслення */
+.link {
+text-decoration: none;
+}
